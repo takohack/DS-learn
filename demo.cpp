@@ -1,7 +1,6 @@
 #include <iostream>
-#include<ctime>
-#include<cstring>
-
+#include <ctime>
+#include <cstring>
 
 using namespace std;
 
